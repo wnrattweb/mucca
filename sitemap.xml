@@ -5,42 +5,42 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>http://www.mucca.com.tr/</loc>
+  <loc>https://mucca.com.tr/</loc>
   <lastmod>2018-09-25T14:37:53+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.mucca.com.tr/index.html</loc>
+  <loc>https://mucca.com.tr/index.html</loc>
   <lastmod>2018-09-25T14:37:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mucca.com.tr/menu.html</loc>
+  <loc>https://mucca.com.tr/menu.html</loc>
   <lastmod>2018-09-25T14:37:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mucca.com.tr/galeri.html</loc>
+  <loc>https://mucca.com.tr/galeri.html</loc>
   <lastmod>2018-09-25T14:37:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mucca.com.tr/hakkimizda.html</loc>
+  <loc>https://mucca.com.tr/hakkimizda.html</loc>
   <lastmod>2018-09-25T14:37:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mucca.com.tr/iletisim.html</loc>
+  <loc>https://mucca.com.tr/iletisim.html</loc>
   <lastmod>2018-09-25T14:37:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mucca.com.tr/uzungol.html</loc>
+  <loc>https://mucca.com.tr/uzungol.html</loc>
   <lastmod>2018-09-25T14:37:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.mucca.com.tr/uzungol-manzarali-kahvalti.html</loc>
+  <loc>https://mucca.com.tr/uzungol-manzarali-kahvalti.html</loc>
   <lastmod>2018-09-25T14:37:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
